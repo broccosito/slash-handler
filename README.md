@@ -16,7 +16,7 @@
 
 ### Prerequisites
 
-[NodeJS V16](https://nodejs.org/es/download/current/) Or Higher
+[NodeJS 16.6.0](https://nodejs.org/es/download/current/) Or Higher
 
 ## Getting Started
 
