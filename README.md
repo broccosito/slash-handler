@@ -23,9 +23,7 @@
 Install The Project Node Dependencies
 
 ```
-
-$ npm install
-
+npm install
 ```
 
 Fill out the config.js
