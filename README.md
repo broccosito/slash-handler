@@ -1,6 +1,5 @@
 ![slash-handler](https://i.imgur.com/J5JMYVD.png)
 
-
 # slash-handler
 
 ## Table of Contents
