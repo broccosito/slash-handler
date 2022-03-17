@@ -82,7 +82,7 @@ module.exports = {
 };
 ```
 
-# NReporting Issues
+# Reporting Issues
 Open a issue in the GitHub Repo and i will try to solve it ASAP
 
 This is everything you need to know! Have a good one :)
